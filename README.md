@@ -22,7 +22,7 @@ The system is designed to recognize both static hand gestures and dynamic gestur
 
 This project focuses on building an intelligent assistive communication system capable of translating Indian Sign Language gestures into understandable outputs using AI-based recognition techniques.
 
-**Architecture**
+                                **Architecture**
 
 <img width="626" height="727" alt="image" src="https://github.com/user-attachments/assets/51091cd2-2b49-4594-9b95-0b5e7b54ddf7" />
 
